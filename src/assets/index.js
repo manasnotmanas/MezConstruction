@@ -3,7 +3,8 @@ import Logo from "./Logo.png"
 import BGmain from "./BGmain.jpg"
 import Portfolio1 from "./Portfolio1.jpg"
 import Portfolio2 from "./Portfolio2.jpg"
-import Portfolio3 from "./Portfolio3.jpg"
+import Portfolio3 from './portfolio3.jpg'; // or whatever the correct name is
+
 import hero1 from "./hero1.jpg"
 import hero2 from "./hero2.jpg"
 import hero3 from "./hero3.jpg"
