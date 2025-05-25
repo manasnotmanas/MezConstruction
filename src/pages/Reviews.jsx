@@ -1,10 +1,13 @@
 import React from 'react'
-import Testimonials from '../components/testimonials'
+
+import ClientsInteraction from '../components/ClientsInteraction';
+
+
 
 const Reviews = () => {
   return (
    <>
-   <Testimonials/>
+   <ClientsInteraction/>
    </>
   )
 }

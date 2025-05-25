@@ -24,7 +24,7 @@ const testimonials = [
   }
 ];
 
-export default function Testimonials() {
+export default function ClientsInteraction() {
   return (
     <section className="bg-[#003049] text-white py-20 ">
       <div className="max-w-7xl mx-auto text-center">
