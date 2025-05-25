@@ -28,7 +28,7 @@ const ApplyForm = () => {
     formData.append("resume", resume);
 
     try {
-      const res = await fetch("http://localhost:5000/api/apply", {
+      const res = await fetch("https://mezconsbackend.onrender.com/api/apply", {
         method: "POST",
         body: formData,
       });
